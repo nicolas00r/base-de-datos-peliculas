@@ -13,7 +13,7 @@ Sigue estos pasos para comenzar:
 1. Visita [Repl.it](https://repl.it/).
 2. Crea una nueva cuenta o inicia sesión si ya tienes una.
 3. Una vez en tu dashboard, selecciona "New Repl" y elige "Import from GitHub".
-4. Pega la URL del repositorio: `https://github.com/JoaquinGarridoRiquelme/Tarea-2`.
+4. Pega la URL del repositorio: `https://github.com/nicolas00r/base-de-datos-peliculas`.
 5. [Repl.it](http://repl.it/) clonará el repositorio y preparará un entorno de ejecución.
 6. En la pestaña "Configurate Repl", sección "Configure the Compile Command", pegar el siguiente comando "gcc tdas/*.c main.c -Wno-unused-result -lm -o main" y presionar "done".
 7. Presione el boton "Run" para compilar y ejecutar la aplicación.
